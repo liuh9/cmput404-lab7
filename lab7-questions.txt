@@ -1,0 +1,28 @@
+0. https://github.com/liuh9/cmput404-lab7
+
+1. Django is MVC architecture, and Flask is not. Django provides object relational mapping (ORM), so that it can map the classes to the tables in database. And Flask does not provide ORM. Also, Django provides dynamic HTML pages and Flask does not support dynamic HTML pages.
+
+2. REST stand for representational state transfer. When I say something is RESTful, its implement uses RESTful API. And it can uses HTTP requests to access and use data. It has REST architectural style and allows for interaction with RESTful web services.
+
+3. CRUD stand for create, read, update and delete. C = {POST}, R = {GET}, U = {PUT}, D = {DELETE}.
+
+4. 1xx for informational response, 2xx for successful, 3xx for redirection, 4xx for client error, 5xx for server error.
+
+5. XSS attack is cross site scripting attack that through manipulating a vulnerable website (including malicious code in this web application) to make it return a harmful scripts to users. 
+One way that makes a site be vulnerable to an XSS attack is that the site uses unsanitized user input in the output it generates. (not filter user input)
+
+6. CORS stand for Cross-Origin Resource Sharing. It is a protocol that enables scripts running on a browser client to interact with resources from a different origin.
+To make cross-domain (cross-origin) requests possible under legitimate needs, we need to implement CORS protection.
+
+
+
+
+
+
+
+
+
+
+
+
+
